@@ -28,7 +28,6 @@
 | Python | [pandas](https://github.com/pandas-dev/pandas?ysclid=mh7m2yr6mn272843263), [IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell?ysclid=mh7m2btfty968064394), Jupyter Notebook, [django](https://github.com/django/django?ysclid=mh7m7bpsz8888363625) |
 | C#     | Revit-Api, WPF                                                                                                                                                                                                                                              |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-savelev&layout=compact)](https://github.com/i-savelev/github-readme-stats)
 
 ### 💬Связаться со мной в Telegram: [i-savelev](https://t.me/i_savelev)
 
