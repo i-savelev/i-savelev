@@ -16,11 +16,13 @@
 | Проект                                                                            | Описание                                                                                       |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | [PluginsManager](https://github.com/i-savelev/PluginsManager)                     | Универсальное и гибкое решение для запуска команд из сторонних плагинов прямо внутри Revit     |
+| [renga_ai](https://github.com/i-savelev/renga_ai)                                 | ИИ-агент для работы с Renga-API                                                                |
 | [ISTools](https://github.com/i-savelev/ISTools)                                   | Набор инструментов для автоматизации работы с параметрами, фильтрами, рабочими наборами и т.д. |
 | [ifc_checker](https://github.com/i-savelev/ifc_checker)                           | Инструмент для проверки моделей ifc по требованиям ids                                         |
 | [CollisionCheckNavisworks](https://github.com/i-savelev/CollisionCheckNavisworks) | Автоматическое создание матрицы коллизий, поисковых наборов и проверок в Autodesk Navisworks   |
 | [BatchIfcExporter](https://github.com/i-savelev/BatchIfcExporter)                 | Скрипт для пакетной выгрузки ifc из Revit                                                      |
-| [ids_mapper](https://github.com/i-savelev/ids_mapper)                 | Инструмент для создания файла мэппинга Revit -> Ifc на основе требований ids                               |
+| [ids_mapper](https://github.com/i-savelev/ids_mapper)                             | Инструмент для создания файла мэппинга Revit -> Ifc на основе требований ids                   |
+
 
 #### 📊 Мои проекты по инвестициям и фондовому рынку
 
