@@ -13,22 +13,19 @@
 
 #### 💻 Мои проекты по BIM/ТИМ
 
-| Проект                                                                            | Описание                                                                                       |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| [PluginsManager](https://github.com/i-savelev/PluginsManager)                     | Универсальное и гибкое решение для запуска команд из сторонних плагинов прямо внутри Revit     |
-| [renga_ai](https://github.com/i-savelev/renga_ai)                                 | ИИ-агент для работы с Renga-API                                                                |
-| [ISTools](https://github.com/i-savelev/ISTools)                                   | Набор инструментов для автоматизации работы с параметрами, фильтрами, рабочими наборами и т.д. |
-| [ifc_checker](https://github.com/i-savelev/ifc_checker)                           | Инструмент для проверки моделей ifc по требованиям ids                                         |
-| [CollisionCheckNavisworks](https://github.com/i-savelev/CollisionCheckNavisworks) | Автоматическое создание матрицы коллизий, поисковых наборов и проверок в Autodesk Navisworks   |
-| [BatchIfcExporter](https://github.com/i-savelev/BatchIfcExporter)                 | Скрипт для пакетной выгрузки ifc из Revit                                                      |
-| [ids_mapper](https://github.com/i-savelev/ids_mapper)                             | Инструмент для создания файла мэппинга Revit -> Ifc на основе требований ids                   |
+| Проект                                                                            | Категория      | Язык   | Описание                                                                                             |
+| --------------------------------------------------------------------------------- | -------------- | ------ | ---------------------------------------------------------------------------------------------------- |
+| [PluginsManager](https://github.com/i-savelev/PluginsManager)                     | Плагин Revit   | С#     | Универсальное и гибкое решение для запуска команд из сторонних плагинов прямо внутри Revit           |
+| [ISTools](https://github.com/i-savelev/ISTools)                                   | Плагин Revit   | С#     | Набор инструментов для автоматизации работы с параметрами, фильтрами, рабочими наборами и т.д.       |
+| [ifc_checker](https://github.com/i-savelev/ifc_checker)                           | Программа      | python | Инструмент для проверки моделей ifc по требованиям ids                                               |
+| [CollisionCheckNavisworks](https://github.com/i-savelev/CollisionCheckNavisworks) | Программа      | python | Инструмент для автоматическоого создания матрицы коллизий, поисковых наборов и проверок в Navisworks |
+| [BatchIfcExporter](https://github.com/i-savelev/BatchIfcExporter)                 | Плагин Revit   | С#     | Инструмент для пакетной выгрузки ifc из Revit. Работает с локальными файлами и с revit-сервером      |
+| [ids_mapper](https://github.com/i-savelev/ids_mapper)                             | Программа      | python | Инструмент для создания файла мэппинга Revit -> Ifc на основе требований ids                         |
+| [revitserver_py](https://github.com/i-savelev/revitserver_py)                     | Программа      | python | Инструмент для пакетного экспорта моделей rvt и nwc с revit-сервера на диск                          |
+| [RevitServerBrowser](https://github.com/i-savelev/RevitServerBrowser)             | Плагин Revit   | С#     | Простой интерфейс для revit-сервера. Полезен для всртаивания в другие плагины                        |
+| [renga_ai](https://github.com/i-savelev/renga_ai)                                 | ИИ-агент Renga | python | ИИ-агент для работы с Renga-API                                                                      |
+| [simple_ids_creator](https://github.com/i-savelev/simple_ids_creator)             | Программа      | python | Инструмент для создания проверок IDS из простых таблиц Excel                                         |
 
-
-#### 📊 Мои проекты по инвестициям и фондовому рынку
-
-| Проект                                                                            | Описание                                                                                       |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| [invest_toolkit](https://github.com/i-savelev/invest_toolkit)                    | Набор инструментов для анализа инвестиционного портфеля и фундаментального анализа акций MOEX. Рейтинг компаний: https://datalens.yandex/5ylyszbllnt6p |
 
 ### 🛠️Мой стек
 
@@ -42,5 +39,4 @@
 
 ### 🔗Мои ссылки
 - Habr: https://habr.com/ru/users/i-savelev
-- Telegram канал, где я делюсь материалами: https://t.me/i_savelev_channel
-- Telegram канал, где я рассказываю об инвестициях: https://t.me/one_investor_fund
+- Telegram канал: https://t.me/i_savelev_channel
