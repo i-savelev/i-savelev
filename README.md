@@ -28,6 +28,7 @@
 | [RevitServerBrowser](https://github.com/i-savelev/RevitServerBrowser)             | Плагин Revit   | С#     | Простой интерфейс для revit-сервера. Полезен для всртаивания в другие плагины                        |
 | [renga_ai](https://github.com/i-savelev/renga_ai)                                 | ИИ-агент Renga | python | ИИ-агент для работы с Renga-API                                                                      |
 | [simple_ids_creator](https://github.com/i-savelev/simple_ids_creator)             | Программа      | python | Инструмент для создания проверок IDS из простых таблиц Excel                                         |
+| [IDS.Highlighting](https://github.com/i-savelev/IDSHighlighting)             | Плагин Revit      | С# | Плагин для Autodesk Revit, предназначенный для просмотра отчётов проверок IDS и быстрого выделения проблемных элементов в модели                                         |
 
 
 ### 🛠️Мой стек
