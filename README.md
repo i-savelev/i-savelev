@@ -31,7 +31,7 @@
 | [simple_ids_creator](https://github.com/i-savelev/simple_ids_creator)             | Программа      | python | Инструмент для создания проверок IDS из простых таблиц Excel                                         |
 | [IDS.Highlighting](https://github.com/i-savelev/IDSHighlighting)             | Плагин Revit      | С# | Плагин для Autodesk Revit, предназначенный для просмотра отчётов проверок IDS и быстрого выделения проблемных элементов в модели  |
 | [LinkLoader](https://github.com/i-savelev/LinkLoader)            | Плагин Revit      | С# | Плагин для пакетной подгрузки связей из Revit Server с гибкой настройкой через Excel  |
-
+| [BatchNwcExporter](https://github.com/i-savelev/BatchNwcExporter)            | Плагин Revit      | С# | Плагин для пакетного экспорта NWC (Navisworks) из Revit с гибкой настройкой через Excel  |
 
 ### 🛠️Мой стек
 
