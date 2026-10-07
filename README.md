@@ -20,14 +20,14 @@
 
 | Проект                                                                            | Категория      | Язык   | Описание                                                                                             |
 | --------------------------------------------------------------------------------- | -------------- | ------ | ---------------------------------------------------------------------------------------------------- |
-| [PluginsManager](https://github.com/i-savelev/PluginsManager)                     | Плагин Revit   | С#     | Универсальное и гибкое решение для запуска команд из сторонних плагинов прямо внутри Revit. Место стборки для всех моих плагинов          |
+| [PluginsManager](https://github.com/i-savelev/PluginsManager)                     | Плагин Revit   | С#     | Универсальное и гибкое решение для запуска команд из сторонних плагинов прямо внутри Revit. Место сборки для всех моих плагинов          |
 | [ISTools](https://github.com/i-savelev/ISTools)                                   | Плагин Revit   | С#     | Набор инструментов для автоматизации работы с параметрами, фильтрами, рабочими наборами и т.д.       |
 | [ifc_checker](https://github.com/i-savelev/ifc_checker)                           | Программа      | python | Инструмент для проверки моделей ifc по требованиям ids                                               |
-| [CollisionCheckNavisworks](https://github.com/i-savelev/CollisionCheckNavisworks) | Программа      | python | Инструмент для автоматическоого создания матрицы коллизий, поисковых наборов и проверок в Navisworks |
+| [CollisionCheckNavisworks](https://github.com/i-savelev/CollisionCheckNavisworks) | Программа      | python | Инструмент для автоматического создания матрицы коллизий, поисковых наборов и проверок в Navisworks |
 | [BatchIfcExporter](https://github.com/i-savelev/BatchIfcExporter)                 | Плагин Revit   | С#     | Инструмент для пакетной выгрузки ifc из Revit. Работает с локальными файлами и с revit-сервером      |
 | [ids_mapper](https://github.com/i-savelev/ids_mapper)                             | Программа      | python | Инструмент для создания файла мэппинга Revit -> Ifc на основе требований ids                         |
 | [revitserver_py](https://github.com/i-savelev/revitserver_py)                     | Программа      | python | Инструмент для пакетного экспорта моделей rvt и nwc с revit-сервера на диск                          |
-| [RevitServerBrowser](https://github.com/i-savelev/RevitServerBrowser)             | Плагин Revit   | С#     | Простой интерфейс для revit-сервера. Полезен для всртаивания в другие плагины                        |
+| [RevitServerBrowser](https://github.com/i-savelev/RevitServerBrowser)             | Плагин Revit   | С#     | Простой интерфейс для revit-сервера. Полезен для встраивания в другие плагины                        |
 | [renga_ai](https://github.com/i-savelev/renga_ai)                                 | ИИ-агент Renga | python | ИИ-агент для работы с Renga-API                                                                      |
 | [simple_ids_creator](https://github.com/i-savelev/simple_ids_creator)             | Программа      | python | Инструмент для создания проверок IDS из простых таблиц Excel                                         |
 | [IDS.Highlighting](https://github.com/i-savelev/IDSHighlighting)             | Плагин Revit      | С# | Плагин для Autodesk Revit, предназначенный для просмотра отчётов проверок IDS и быстрого выделения проблемных элементов в модели  |
